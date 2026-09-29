@@ -95,7 +95,7 @@ select:focus-visible {
   border-radius: 13px;
   background: var(--accent);
   color: white;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 700;
 }
 
